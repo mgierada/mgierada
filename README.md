@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-- 🐍 Python, JavaScript, C++ ✨ Django ✨ PostgreSQL, MySQL, SQLite ✨ Docker, Kubernetes ✨ numpy, pandas, scipy ✨ ML ✨ Git, GitHub, GitLab
+- 🐍 Python , JavaScript, C++
+- ✨ Django
+- ✨ PostgreSQL, MySQL, SQLite
+- ✨ Docker, Kubernetes
+- ✨ numpy, pandas, scipy
+- ✨ ML
+- ✨ Git, GitHub, GitLab
+
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms of catalytic surfaces
 - 📫 maciek.gierada@gmail@com
 

@@ -8,7 +8,8 @@
 - ✨ ML
 - ✨ Git, GitHub, GitLab
 
-- 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms of catalytic surfaces
+- 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces
+
 - 📫 maciek.gierada@gmail@com
 
 <!--

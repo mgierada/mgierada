@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐍 Python , JavaScript, C++, HTML/CSS, Latex
+- 🐍 Python , JavaScript, C++, HTML/CSS, Latex, Matlab, MathCad, Scilab
 - ✨ Django
 - ✨ PostgreSQL, MySQL, SQLite
 - ✨ Docker, Kubernetes

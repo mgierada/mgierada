@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🐍 Python , JavaScript, C++, HTML/CSS, Latex, Matlab, MathCad, Scilab
+- 🐍 Python, Bash, JavaScript, C++, HTML/CSS/SASS, Latex
 - ✨ Django
 - ✨ PostgreSQL, MySQL, SQLite
 - ✨ Docker, Kubernetes
+- ✨ OSX, Linux, Windows
 - ✨ numpy, pandas, scipy
 - ✨ ML
-- ✨ Git, GitHub, GitLab
+- ✨ Git, GitHub, GitLab, Bitbucket
 
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces
 

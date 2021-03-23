@@ -7,6 +7,7 @@
 - ✨ OSX, Linux, Windows
 - ✨ numpy, pandas, scipy
 - ✨ ML
+- ✨ SCRUM, Agile
 - ✨ Git, GitHub, GitLab, Bitbucket
 
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces

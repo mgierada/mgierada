@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy! 👋
+
+If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support!
 
 - 🐍 Python, Bash, JavaScript, C++, HTML/CSS/SASS, Latex
 - ✨ Django

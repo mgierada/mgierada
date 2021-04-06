@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support!
+If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time dontation are welcome as well [](paypal.me/mgierada)
 
 - 🐍 Python, Bash, JavaScript, C++, HTML/CSS/SASS, Latex
 - ✨ Django
@@ -16,8 +16,3 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 
 - 📫 maciek.gierada@gmail@com
 
-<!--
-**mgierada/mgierada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- ⚡ Fun fact: ...
-
--->

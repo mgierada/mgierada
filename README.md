@@ -16,3 +16,4 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 
 - 📫 maciek.gierada@gmail@com
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mgierada&count_private=true&show_icons=true&theme=gruvbox&hide_border=true)

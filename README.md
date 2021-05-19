@@ -13,7 +13,7 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 - ✨ Git, GitHub, GitLab, Bitbucket
 
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces.
-- 
+- 🔭 Working on [sgu-ts]() a 
 
 - 📫 maciek.gierada@gmail@com
 

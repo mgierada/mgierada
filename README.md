@@ -13,7 +13,7 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 - ✨ Git, GitHub, GitLab, Bitbucket
 
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces.
-- 🔭 Working on [sgu-ts](https://github.com/mgierada/sgu_transcript_generator) a Django based search engine and transcripts generator for the Skeptics Guide to the Universe (SGU) podcast.
+- 🔭 Working on [SGU-TS](https://github.com/mgierada/sgu_transcript_generator) a Django based search engine and transcripts generator for the Skeptics Guide to the Universe (SGU) podcast.
 
 - 📫 maciek.gierada@gmail@com
 

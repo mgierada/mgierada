@@ -13,7 +13,7 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 - ✨ Git, GitHub, GitLab, Bitbucket
 
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces.
-- 🔭 Working on [SGU-TS](https://github.com/mgierada/sgu_transcript_generator) a Django based search engine and transcripts generator for the Skeptics Guide to the Universe (SGU) podcast.
+- 🔭 Working on [SGU-TS](https://github.com/mgierada/sgu_transcript_generator) an English based audio files to text converter and search engine that ensures that grammar, casing and punctuation are on the spot. An efficient search engine allows users to define a text-based query and play an audio file from the exact location where the query occurs. Among others, it's a unique tool for podcating as it makes feel you are searching through audio files like you do through texts. Currently applied to the Skeptic's Guide to the Universe Podcast.
 
 - 📫 maciek.gierada@gmail@com
 

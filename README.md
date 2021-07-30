@@ -2,7 +2,7 @@
 
 If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time dontation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL)
 
-- ✨ 🐍Python🐍, Bash, JavaScript, C++, HTML/CSS, Latex
+- ✨ 🐍Python🐍, Bash, JavaScript, HTML/CSS, Latex
 - ✨ Django, Django REST Framework
 - ✨ PostgreSQL, MySQL, SQLite
 - ✨ Docker, Kubernetes

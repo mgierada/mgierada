@@ -1,11 +1,18 @@
 ### Hi! 👋
 
-If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time dontation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL)
+I am a remote software enginneer at Sofomo, CEO of MGTech, CTO and cofounder of oMG Technologies.
 
-- ✨ 🐍Python🐍, Bash, JavaScript, HTML/CSS, Latex
+If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time dontation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
+
+Fell free contact me regarding any buissness opportunities.
+
+My Tech stach:
+- ✨ Python, Bash, JavaScript, HTML/CSS, Latex
 - ✨ Django, Django REST Framework
-- ✨ PostgreSQL, MySQL, SQLite
+- ✨ NodeJS
+- ✨ PostgreSQL, MySQL, SQLite, MongoDB
 - ✨ Docker, Kubernetes
+- ✨ Microservices
 - ✨ Google Cloud Platform
 - ✨ OSX, Linux, Windows
 - ✨ numpy, pandas, scipy
@@ -15,6 +22,7 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 
 - 🔭 Working on [pynta](https://github.com/zadorlab/pynta) software that automaticaly explores reaction mechanisms on catalytic surfaces.
 - 🔭 Working on [TGSE](https://github.com/mgierada/sgu_transcript_generator) an English based audio files to text converter and search engine that ensures that grammar, casing and punctuation are on the spot. An efficient search engine allows users to define a text-based query and play an audio file from the exact location where the query occurs. Among others, it's a unique tool for podcating as it makes feel you are searching through audio files like you do through texts. Currently applied to the Skeptic's Guide to the Universe Podcast.
+- 🔭 Working on [RWTP](https://github.com/oMG-technologies/RWTP) a REST API for getting translation of random english words to a language of choice together with the correct pronunciation. The core of the API is open for external collaborators. Additional features including users, registration, authorization are included in FlashCard project.
 
 - 📫 maciek.gierada@gmail@com
 

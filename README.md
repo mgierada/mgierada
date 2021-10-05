@@ -9,9 +9,9 @@ Fell free contact me regarding any buissness opportunities.
 My tech stach:
 - ✨ Python, Bash, JavaScript, HTML/CSS, Latex
 - ✨ Django, Django REST Framework
-- ✨ NodeJS
+- ✨ Node.js, Nest.js
 - ✨ PostgreSQL, MySQL, SQLite, MongoDB
-- ✨ Docker, Kubernetes
+- ✨ Docker
 - ✨ Microservices
 - ✨ Google Cloud Platform
 - ✨ OSX, Linux, Windows

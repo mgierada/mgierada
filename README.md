@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-I am a remote software enginneer at Sofomo, CEO of MGTech, CTO and cofounder of oMG Technologies.
+I am a remote software engineer at Sofomo, CEO of MGTech, CTO and cofounder of oMG Technologies.
 
-If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time dontation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
+If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
 
 Fell free contact me regarding any buissness opportunities.
 

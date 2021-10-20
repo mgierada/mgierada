@@ -7,16 +7,14 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 Fell free contact me regarding any buissness opportunities.
 
 My tech stack:
-- ✨ Python, Bash, JavaScript, HTML/CSS, Latex
+- ✨ Python, JavaScript, Bash, HTML/CSS, Latex
 - ✨ Django, Django REST Framework
 - ✨ Node.js, Nest.js
 - ✨ PostgreSQL, MySQL, SQLite, MongoDB
 - ✨ Docker
 - ✨ Microservices
-- ✨ Google Cloud Platform
+- ✨ Google Cloud Platform, AWS
 - ✨ OSX, Linux, Windows
-- ✨ numpy, pandas, scipy
-- ✨ ML
 - ✨ SCRUM, Agile
 - ✨ Git, GitHub, GitLab, Bitbucket
 

@@ -7,11 +7,11 @@ If you find my work useful, consider becoming a Patreon [https://www.patreon.com
 Fell free contact me regarding any buissness opportunities.
 
 My tech stack:
-- ✨ Python, JavaScript, Bash, HTML/CSS, Latex
-- ✨ Django, Django REST Framework
-- ✨ Node.js, Nest.js
+- ✨ Python, JavaScript, TypesScript, Bash, HTML/CSS, Latex
+- ✨ Django, Django REST Framework, Flask, Dagster
+- ✨ Node.js, Nest.js, express,
 - ✨ PostgreSQL, MySQL, SQLite, MongoDB
-- ✨ Docker
+- ✨ Docker, Kubernetes
 - ✨ Microservices
 - ✨ Google Cloud Platform, AWS
 - ✨ OSX, Linux, Windows
@@ -19,8 +19,7 @@ My tech stack:
 - ✨ Git, GitHub, GitLab, Bitbucket
 
 - 🔭 Worked on [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
-- 🔭 Working on [TGSE](https://github.com/mgierada/sgu_transcript_generator) an English based audio files to text converter and search engine that ensures that grammar, casing and punctuation are on the spot. An efficient search engine allows users to define a text-based query and play an audio file from the exact location where the query occurs. Among others, it's a unique tool for podcasting as it makes feel you are searching through audio files like you do through texts. Currently applied to the Skeptic's Guide to the Universe Podcast.
-- 🔭 Working on [RWTP](https://github.com/oMG-technologies/RWTP) a REST API for getting translation of random English words to a language of choice together with the correct pronunciation. The core of the API is open for external collaborators. Additional features including users, registration, authorization, etc. are included in the [FlashCard](https://github.com/oMG-technologies/Flashcards) project.
+- 🔭 Worked on [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 
 - 📫 maciek.gierada@gmail@com
 

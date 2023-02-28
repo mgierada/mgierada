@@ -1,16 +1,23 @@
 ### Hi! 👋
 
-I am a remote software engineer at Sofomo, CEO of MGTech, CTO and cofounder of oMG Technologies.
+I am a remote software engineer, CEO of **MGTech - IT and Software Solutions**, CTO and cofounder of **oMG Technologies**. Currently, I am closly collaborating with Sofomo (Poland) and a number of tech companies from the silicon valley and other parts of the world.
 
-If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
+Recent client:
+ - [Sandia National Laboratories](https://www.google.com/search?client=safari&rls=en&q=Sandia+National+Laboratories&ie=UTF-8&oe=UTF-8)
+ - [PublicSq](https://publicsq.com)
+ - [Willow](https://onewillow.com)
+ - [Globality](https://www.globality.com)
+ - [Braidwell](https://www.braidwell.com)
 
-Fell free contact me regarding any buissness opportunities.
+I also contributed to a number of open-source projects. If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
 
-My tech stack:
+Fell free contact me regarding any buissness opportunities. I am open for new challenges to elevate your buissness to the moon 🚀.
+
+Tech stack:
 - ✨ Python, JavaScript, TypesScript, Bash, HTML/CSS, Latex
 - ✨ Django, Django REST Framework, Flask, Dagster
-- ✨ Node.js, Nest.js, express,
-- ✨ PostgreSQL, MySQL, SQLite, MongoDB
+- ✨ Node.js, Nest.js, Express,
+- ✨ PostgreSQL, MySQL, SQLite, MongoDB, Cassandra,
 - ✨ Docker, Kubernetes
 - ✨ Microservices
 - ✨ Google Cloud Platform, AWS

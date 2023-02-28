@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I am a remote software engineer, CEO of **MGTech - IT and Software Solutions**, CTO and cofounder of **oMG Technologies**. Currently, I am closly collaborating with Sofomo (Poland) and a number of tech companies from the silicon valley and other parts of the world.
+I am a remote software engineer, CEO of **MGTech - IT and Software Solutions**, CTO and cofounder of **oMG Technologies**. I am closly collaborating with Sofomo (Poland) and a number of tech companies from the silicon valley and other parts of the world.
 
 Recent client:
  - [Sandia National Laboratories](https://www.google.com/search?client=safari&rls=en&q=Sandia+National+Laboratories&ie=UTF-8&oe=UTF-8)

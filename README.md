@@ -9,12 +9,15 @@ Recent client:
  - [Globality](https://www.globality.com)
  - [Braidwell](https://www.braidwell.com)
 
-I also contributed to a number of open-source projects. If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
+I also contributed to a number of open-source projects.
+
+If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
 
 Fell free to contact me regarding any buissness opportunities. I am open for new challenges to elevate your buissness to the moon 🚀.
 
 Tech stack:
-- ✨ Python, JavaScript, TypesScript, Bash, HTML/CSS, Latex
+- ✨ Rust, Python, JavaScript, TypesScript, Bash, HTML/CSS, Latex
+- ✨ Rocket
 - ✨ Django, Django REST Framework, Flask, Dagster
 - ✨ Node.js, Nest.js, Express,
 - ✨ PostgreSQL, MySQL, SQLite, MongoDB, Cassandra,
@@ -29,6 +32,6 @@ Tech stack:
 - 🔭 Worked on [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 - 🔭 Worked on [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partents designed to help them understand and take care of babies and solve common parenting issues.
 
-- 📫 maciek.gierada@gmail@com
+- 📫 maciej.gierada@gmail.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mgierada&count_private=true&show_icons=true&theme=gruvbox&hide_border=true)

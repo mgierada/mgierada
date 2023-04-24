@@ -34,4 +34,14 @@ Fell free to contact me regarding any buissness opportunities. I am open for new
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgierada&show_icons=true&locale=en&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="mgierada" /></p>
 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mgierada&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mgierada&icon=2&color=4)](https://visitcount.itsvg.in)
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgierada&" alt="mgierada" /></p>

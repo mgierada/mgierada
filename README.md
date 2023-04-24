@@ -32,7 +32,8 @@ Fell free to contact me regarding any buissness opportunities. I am open for new
 - 🔭 Worked on [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 - 🔭 Worked on [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partents designed to help them understand and take care of babies and solve common parenting issues.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgierada&show_icons=true&locale=en&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="mgierada" /></p>
+![](https://github-readme-stats.vercel.app/api?username=mgierada&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgierada&theme=dark&hide_border=true)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=mgierada&icon=2&color=4)](https://visitcount.itsvg.in)
 

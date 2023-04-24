@@ -5,10 +5,12 @@ I am a remote software engineer, CEO of **MGTech - IT and Software Solutions**, 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maciej-gierada-phd-48a768163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maciej-gierada-phd-48a768163" height="30" width="40" /></a>
-📫 maciej.gierada@gmail.com
 </p>
 
+📫 maciej.gierada@gmail.com
+
 <h3 align="left">Recent clients:</h3>
+
 - [Sandia National Laboratories](https://www.google.com/search?client=safari&rls=en&q=Sandia+National+Laboratories&ie=UTF-8&oe=UTF-8)
 - [PublicSq](https://publicsq.com)
 - [Willow](https://onewillow.com)

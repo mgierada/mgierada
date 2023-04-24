@@ -38,9 +38,5 @@ Fell free to contact me regarding any buissness opportunities. I am open for new
 [![](https://visitcount.itsvg.in/api?id=mgierada&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=mgierada&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgierada&" alt="mgierada" /></p>

@@ -15,6 +15,7 @@ I specialize mostly in various backend technologies.
 - [Braidwell](https://www.braidwell.com)
 
 <h3 align="left">Key projects:</h3>
+
 - 🔭 Worked on [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
 - 🔭 Worked on [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 - 🔭 Worked on [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partents designed to help them understand and take care of babies and solve common parenting issues.

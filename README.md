@@ -2,7 +2,7 @@
 
 I am a professional problem solver with 9+ years of experience. I am an excellent team player and highly skillful individual. I have great experience in managing and leading large international teams, either on-site or remote. My science background gives me a unique way to approach complex tasks. With strong mathematics and logic foundation I usually come up with out-of-the-box ideas while keeping things as simple as possible. My strongest and, at the same time, the weakest trait is that I stay open-minded after all.
 
-I am a remote software engineer, CEO of **MGTech - IT and Software Solutions**, CTO and cofounder of **oMG Technologies**. Currently, I am closly collaborating with Sofomo (Poland) and a number of tech companies from the silicon valley and other parts of the world.
+Currently, I closly collaborate with Sofomo (Poland) and a number of tech companies from the silicon valley and other parts of the world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 ### Hi!
 
-I am a professional problem solver with 9+ years of experience. I am an excellent team player and highly skillful individual. I have great experience in managing and leading large international teams, either on-site or remote. My science background gives me a unique way to approach complex tasks. With strong mathematics and logic foundation I usually come up with out-of-the-box ideas while keeping things as simple as possible. My strongest and, at the same time, the weakest trait is that I stay open-minded after all.
+I am a professional problem solver with 9+ years of experience. I have great experience in managing and leading large international teams, either on-site or remote. My science background gives me a unique way to approach complex tasks. With strong mathematics and logic foundation I usually come up with out-of-the-box ideas while keeping things as simple as possible. My strongest and, at the same time, the weakest trait is that I stay open-minded after all.
 
 Currently, I closly collaborate with Sofomo (Poland) and a number of tech companies around the world.
 

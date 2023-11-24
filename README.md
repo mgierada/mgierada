@@ -4,7 +4,7 @@ I am a professional problem solver with 9+ years of experience. I have great exp
 
 Currently, I closly collaborate with Sofomo (Poland) and a number of tech companies around the world.
 
-I specialize mostly in various backend technologies. 
+I specialize mostly in various backend technologies.
 
 <h3 align="left">Recent clients:</h3>
 
@@ -19,7 +19,6 @@ I specialize mostly in various backend technologies.
 - 🔭 Worked on [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
 - 🔭 Worked on [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 - 🔭 Worked on [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partents designed to help them understand and take care of babies and solve common parenting issues.
-
 
 I also contributed to a number of open-source projects.
 
@@ -37,11 +36,15 @@ Fell free to contact me regarding any buissness opportunities. I am open for new
 
 <h3 align="left">Show off section:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=mgierada&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgierada&theme=dark&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mgierada&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mgierada&theme=dark&hide_border=true)<br/> -->
+
+<!-- ![Metrics](https://metrics.lecoq.io/mgierada) -->
+
+![Metrics](https://github.com/yutkat/mgierada/blob/main/github-metrics.svg)
 
 [![](https://visitcount.itsvg.in/api?id=mgierada&icon=2&color=4)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mgierada&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies -->
+<!---->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=mgierada&theme=dark&no-frame=true&no-bg=true&margin-w=4) -->

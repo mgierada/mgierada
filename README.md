@@ -41,7 +41,7 @@ Fell free to contact me regarding any buissness opportunities. I am open for new
 
 <!-- ![Metrics](https://metrics.lecoq.io/mgierada) -->
 
-![Metrics](https://github.com/yutkat/mgierada/blob/main/github-metrics.svg)
+![Metrics](https://github.com/mgierada/mgierada/blob/main/github-metrics.svg)
 
 [![](https://visitcount.itsvg.in/api?id=mgierada&icon=2&color=4)](https://visitcount.itsvg.in)
 

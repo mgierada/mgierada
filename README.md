@@ -20,7 +20,9 @@ I specialize mostly in various backend technologies.
 - 🔭 [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 - 🔭 [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partners designed to help them understand and take care of babies and solve common parenting issues.
 - 🔭 [CairHealth]() A platform that brings submitting medical claims on the next level.
+
 **Open Source**
+
 - 🔭 [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
 - 🔭 [lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) A plugin for neovim to manage docker.
 - 🔭 [pybumper.nvim](https://github.com/mgierada/pybumper.nvim) A wrapper around the poetry commands for neovim.

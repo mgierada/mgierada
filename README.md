@@ -2,7 +2,7 @@
 
 I am a professional problem solver with 9+ years of experience. I have great experience in managing and leading large international teams, either on-site or remote. My science background gives me a unique way to approach complex tasks. With strong mathematics and logic foundation I usually come up with out-of-the-box ideas while keeping things as simple as possible. My strongest and, at the same time, the weakest trait is that I stay open-minded after all.
 
-Currently, I closly collaborate with Sofomo (Poland) and a number of tech companies around the world.
+Currently, I closely collaborate with Sofomo (Poland) and a number of tech companies around the world.
 
 I specialize mostly in various backend technologies.
 
@@ -16,16 +16,21 @@ I specialize mostly in various backend technologies.
 - [Braidwell](https://www.braidwell.com)
 
 <h3 align="left">Key projects:</h3>
-
-- 🔭 Worked on [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
-- 🔭 Worked on [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
-- 🔭 Worked on [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partents designed to help them understand and take care of babies and solve common parenting issues.
+- 🔭 [Globality](https://www.globality.com) Autonomous sourcing for modern, global enterprises.
+- 🔭 [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
+- 🔭 [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new partners designed to help them understand and take care of babies and solve common parenting issues.
+- 🔭 [CairHealth]() A platform that brings submitting medical claims on the next level.
+**Open Source**
+- 🔭 [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
+- 🔭 [lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) A plugin for neovim to manage docker.
+- 🔭 [pybumper.nvim](https://github.com/mgierada/pybumper.nvim) A wrapper around the poetry commands for neovim.
+- 🔭 [govee-api](https://crates.io/crates/govee-api) A blazingly fast thin wrapper around the public Govee API written in Rust.
 
 I also contributed to a number of open-source projects.
 
 If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
 
-Fell free to contact me regarding any buissness opportunities. I am open for new challenges to elevate your buissness to the moon 🚀.
+Fell free to contact me regarding any business opportunities. I am open for new challenges to elevate your business to the moon 🚀.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

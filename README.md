@@ -8,6 +8,7 @@ I specialize mostly in various backend technologies.
 
 <h3 align="left">Recent clients:</h3>
 
+- [Sofomo](https://www.sofomo.com)
 - [Sandia National Laboratories](https://www.google.com/search?client=safari&rls=en&q=Sandia+National+Laboratories&ie=UTF-8&oe=UTF-8)
 - [PublicSq](https://publicsq.com)
 - [Willow](https://onewillow.com)

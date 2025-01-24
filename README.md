@@ -6,7 +6,7 @@ My greatest strength—and perhaps my biggest challenge—is that I remain open-
 
 Currently, I work closely with Sofomo (Poland) and several tech companies worldwide, with a primary focus on various backend and machine learning technologies.
 
-<h3 align="left">Recent clients:</h3>
+<h3 align="left">Recent commercial clients:</h3>
 
 - [Sofomo](https://www.sofomo.com)
 - [Sandia National Laboratories](https://www.google.com/search?client=safari&rls=en&q=Sandia+National+Laboratories&ie=UTF-8&oe=UTF-8)
@@ -14,6 +14,7 @@ Currently, I work closely with Sofomo (Poland) and several tech companies worldw
 - [Willow](https://onewillow.com)
 - [Globality](https://www.globality.com)
 - [Braidwell](https://www.braidwell.com)
+- [Zoomph](https://zoomph.com/)
 
 <h3 align="left">Key projects:</h3>
 
@@ -22,7 +23,7 @@ Currently, I work closely with Sofomo (Poland) and several tech companies worldw
 - 🔭 [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new parents designed to help them understand and take care of babies and solve common parenting issues.
 - 🔭 [CairHealth]() A platform that brings submitting medical claims on the next level.
 
-**Open Source**
+**Open Source Projects**
 
 - 🔭 [pynta](https://github.com/zadorlab/pynta) software that automatically explores reaction mechanisms on catalytic surfaces.
 - 🔭 [lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) A plugin for neovim to manage docker.

@@ -1,10 +1,10 @@
 ### Hi!
 
-I am a professional problem solver with 9+ years of experience. I have great experience in managing and leading large international teams, either on-site or remote. My science background gives me a unique way to approach complex tasks. With strong mathematics and logic foundation I usually come up with out-of-the-box ideas while keeping things as simple as possible. My strongest and, at the same time, the weakest trait is that I stay open-minded after all.
+I am a professional problem solver with over 10 years of experience. I have extensive expertise in managing and leading large international teams, both on-site and remotely. My background in science equips me with a unique perspective for tackling complex challenges. With a strong foundation in mathematics and logic, I often come up with out-of-the-box ideas while ensuring simplicity and clarity.
 
-Currently, I closely collaborate with Sofomo (Poland) and a number of tech companies around the world.
+My greatest strength—and perhaps my biggest challenge—is that I remain open-minded at all times.
 
-I specialize mostly in various backend technologies.
+Currently, I work closely with Sofomo (Poland) and several tech companies worldwide, with a primary focus on various backend and machine learning technologies.
 
 <h3 align="left">Recent clients:</h3>
 

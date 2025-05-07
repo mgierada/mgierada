@@ -22,6 +22,7 @@ Currently, I work closely with Sofomo (Poland) and several tech companies worldw
 - 🔭 [publicSq](https://publicsq.com) A social network platform with 1+ million of users that connects conservatives to like-minded individuals in their local communities, reliable topic-based information, and the businesses that share their values.
 - 🔭 [Willow](https://hello.onewillow.com/home) A content-rich platform and mobile app for new parents designed to help them understand and take care of babies and solve common parenting issues.
 - 🔭 [CairHealth]() A platform that brings submitting medical claims on the next level.
+- 🔭 [Zoomph]() The smarter way to measure partnership -- Advanced analytics for comprehensive viewership insights, enabling partners to measure engagement and make informed decisions across broadcast and social platforms.
 
 **Open Source Projects**
 

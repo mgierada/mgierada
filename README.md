@@ -4,7 +4,7 @@ I am a professional problem solver with over 10 years of experience. I have exte
 
 My greatest strength—and perhaps my biggest challenge—is that I remain open-minded at all times.
 
-Currently, I work closely with Sofomo (Poland) and several tech companies worldwide, with a primary focus on various backend and machine learning technologies.
+Currently, I collaborate with Sofomo (Poland) and several tech companies worldwide, with a primary focus on various backend and machine learning technologies.
 
 <h3 align="left">Recent commercial clients:</h3>
 

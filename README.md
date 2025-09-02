@@ -35,7 +35,7 @@ I also contributed to a number of open-source projects.
 
 If you find my work useful, consider becoming a Patreon [https://www.patreon.com/maciejgierada](https://www.patreon.com/maciejgierada). I highly appreciate any form of support! One time donation are welcome as well [paypal.me/mgierada](https://paypal.me/mgierada?locale.x=pl_PL).
 
-Fell free to contact me regarding any business opportunities. I am open for new challenges to elevate your business to the moon 🚀.
+Fell free to contact me regarding any business inquiries. Let's elevate your business to the moon 🚀.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

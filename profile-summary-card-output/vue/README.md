@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/mgierada/mgierada/main/profile-summary-card-output/vue/2-most-commit-language.svg)
-```
-
-    
